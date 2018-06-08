@@ -1,2 +1,3 @@
 # daily-batch-scripts
-some script I've used every day in some old works
+some script I've used every day in some old jobs
+On Windows -> open Run, type shell: startup and hit Enter. Add shortcut for script that you want to run on windows startup ...
